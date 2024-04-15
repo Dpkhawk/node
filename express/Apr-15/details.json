@@ -1,0 +1,21 @@
+{
+    "details":[
+        {
+            "name":"deepak",
+            "age":21
+           
+        },
+        {
+            "name":"gokul",
+            "age":21
+        },
+        {
+            "name":"prakash",
+            "age":21
+        },
+        {
+            "name":"abi",
+            "age":21
+        }
+    ]
+}
